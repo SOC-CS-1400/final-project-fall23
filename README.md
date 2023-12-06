@@ -1,6 +1,6 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526669888)
 
-# Python Codespace Template
+# 
 
 _Create or extend a ready-to-use repository for teaching Python in minutes_
 
