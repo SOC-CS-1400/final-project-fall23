@@ -68,7 +68,7 @@ Your next task is to define a new class called CityWeather with the following ch
 
 - Implement "getters" methods for each of these attributes to retrieve their values.
 
-- Implement the following operator overloads: `__gt__` (greater than), `__lt__` (less than), and `__eq__` (equal) operators. These operators should allow for comparisons between CityWeather objects based on their humidity values.
+- Implement the following operator overloads: `__gt__` (greater than), `__lt__` (less than), and `__eq__` (equal) operators. These operators should allow for comparisons between CityWeather objects based on their `temp` values.
 
 - Implement the `__str__` method to provide a string representation of the object's information.
 
