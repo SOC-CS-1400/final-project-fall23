@@ -18,7 +18,7 @@ Pulling data for zip code: 55458
 ```
 
 ## Task 2: Retrieve Data from Weather API
-Your next task is to implement a function named pull_weather_data, which takes a zip code as its only input parameter. To achieve this, follow these steps:
+Your next task is to implement a function named `pull_weather_data()`, which takes a zip code as its only input parameter. To achieve this, follow these steps:
 
 1. Obtain an API key from openweathermap.org, if you don't have one already.
 
@@ -62,7 +62,7 @@ Retreive information from:[Minneapolis] city
 ```
 
 ## Taks 3: Define CityWeather Class
-Your next task is to define a new class called CityWeather with the following characteristics:
+Your next task is to define a new class called `CityWeather` with the following characteristics:
 
 - Implement a constructor `__init__` that takes `humidity, temp, temp_max, temp_min, and city_name` as parameters and initializes the corresponding attributes.
 
@@ -95,7 +95,7 @@ class CityWeather:
 Your next task is to create `CityWeather` objects and store them in a collections. You have the flexibility to choose any type of collection to hold this data -- whether it be a list, dictionary, or any other suitable data structure. Make sure to organize the stored information in a way that allows for easy retrieval and manipulation in subsequent tasks.
 
 ## Task 5: Calculate the Hottest and Coldest Temperature
-Now, using the collection you created in the previous task, create functions to calculate the hottest and coldest city. Your function should take the collection of CityWeather objects, and it should return the names of the hottest and coldest cities.
+Now, using the collection you created in the previous task, create functions to calculate the hottest and coldest city. Your function should take the collection of `CityWeather` objects, and it should return the names of the hottest and coldest cities.
 
 Here's an outline for the functions:
 
